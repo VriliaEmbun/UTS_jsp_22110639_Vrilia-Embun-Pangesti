@@ -19,7 +19,8 @@ Aplikasi ini merupakan implementasi dari konsep-konsep dasar JSP seperti:
 
 | Halaman Utama | Data Ditampilkan |
 |---------------|------------------|
-| ![Home](screenshots/home.png) | ![Data](screenshots/data.png) |
+| ![Home](index.png) | ![pesanan](pesanan.png) |
+| ![login](login.png) | ![struk](struk.png) |
 
 > *Gambar di atas menunjukkan tampilan utama dan hasil output data dari aplikasi.*
 
